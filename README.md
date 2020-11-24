@@ -12,7 +12,8 @@ GitHub 練習
 アイウ
 
 ●Bさん
-ABC
+ABCDE
+abcde
 
 ●Cさん
 123
